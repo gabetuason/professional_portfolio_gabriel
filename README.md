@@ -1,6 +1,6 @@
 # Professional Portfolio
 ## Deployed url
-
+https://gabetuason.github.io/professional_portfolio_gabriel/
 
 ## Description
 A portfolio to showcase skills and talents to employers looking to fill a position. It includes the employee's about me, work, contact and resume.
