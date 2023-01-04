@@ -6,8 +6,8 @@ https://gabetuason.github.io/professional_portfolio_gabriel/
 A portfolio to showcase skills and talents to employers looking to fill a position. It includes the employee's about me, work, contact and resume.
 
 *Note that some of the work showcased are placeholder images such as:
-SURFREPORT
-LEDWALL
+Surf Report
+LED WALL
 PASSWORD GEN
 Will soon be replaced with completed projects
 
