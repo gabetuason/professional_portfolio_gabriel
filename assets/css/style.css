@@ -188,7 +188,7 @@ nav a:hover {
 
 /* images*/
 .surf {
-    background-image: url("../images/surf.jpg");
+    background-image: url("../images/audionews.PNG");
     background-size: cover;
 }
 
@@ -216,7 +216,7 @@ nav a:hover {
 .container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .item:first-child {
